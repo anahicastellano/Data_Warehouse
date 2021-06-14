@@ -1,15 +1,16 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "helmet": "^4.6.0",
     "jsonwebtoken": "^8.5.1",
     "mysql": "^2.18.1",
-    "node": "^16.3.0",
     "sequelize": "^6.6.2"
   },
   "name": "data_warehouse",
   "description": "Project 4 of the Full Stack Web Development course of Acámica",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/anahicastellano/Data_Warehouse.git"
   },
-  "author": "anahi castellano",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anahicastellano/Data_Warehouse/issues"
