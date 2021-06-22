@@ -15,7 +15,7 @@
 }
 
 .logo {
-  width: 100px;
+  width: 10%;
   position: relative;
   left: 29.9px;
 }
@@ -313,6 +313,17 @@
   top: 0;
   height: 100vh;
   background: rgba(0, 0, 0, 0.8);
+  
+}
+.dark-image-region {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  margin-left: -8%;
 }
 
 .head-window {
@@ -386,6 +397,8 @@
 }
 .btn-white:hover {
   cursor: pointer;
+  background-color: #DE0028;
+  color: white;
 }
 
 .btn-grey {
@@ -400,6 +413,7 @@
 }
 .btn-grey:hover {
   cursor: pointer;
+  background-color: #429c41;
 }
 
 .blue {
@@ -935,6 +949,7 @@ progress::-moz-progress-bar {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-left: 8%
 }
 
 .head-comp {
