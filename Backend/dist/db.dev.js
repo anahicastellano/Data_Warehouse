@@ -1,8 +1,7 @@
 "use strict";
 
 var _require = require("sequelize"),
-    Sequelize = _require.Sequelize,
-    HostNotFoundError = _require.HostNotFoundError;
+    Sequelize = _require.Sequelize;
 
 var db = new Sequelize("data_ware", "root", "", {
   host: "localhost",
