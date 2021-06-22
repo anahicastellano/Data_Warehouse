@@ -9,9 +9,9 @@ const routes = require("./routes/index.js");
 
 const app = express();
 
-if (!process.env.ACCESS_TOKEN_SECRET) {
-    throw new Error("Please set ACCESS_TOKEN_SECRET before running app");
-}
+// if (!process.env.ACCESS_TOKEN_SECRET) {
+//     throw new Error("Please set ACCESS_TOKEN_SECRET before running app");
+// }
 
 app.use(helmet());
 app.use(cors());
