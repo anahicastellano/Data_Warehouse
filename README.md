@@ -3,24 +3,32 @@ Project 4 of the Full Stack Web Development course of Acámica
 
 This project consists of the creation of a tool that allows a Marketing company to manage all the contacts of its clients for its campaigns.
 
-# Implementation
+## Implementation
 📌 HTML
+
 📌 CSS
+
 📌 JavaScript
+
 📌 Node JS
+
 📌 Express 
+
 📌 Sequelize
+
 📌 MySQL
+
 📌 JWT for authentication
+
 📌 Postman to test API
 
-# Instalation 
+## Instalation 
 
 Clone the proyect from a terminal
 
 `git clone https://github.com/anahicastellano/Data_Warehouse.git`
 
-# Deploy
+## Deploy
 
 Install the requires dependences for the correct operation of the application in the *backend* folder
 
@@ -37,13 +45,13 @@ Position yourself in the *Backend* folder from in a shell and execute:
 
 `npm run app.js`
 
-# Test
+## Test
 In the following link, you can find the requests to test the API, made in Postman:
 
 [Postman](https://documenter.getpostman.com/view/13365917/Tzeajm5V)
 
 
-# Repository
+## Repository
 
 Link to the repo on GitHub:
 
