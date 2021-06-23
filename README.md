@@ -5,13 +5,21 @@ This project consists of the creation of a tool that allows a Marketing company 
 
 # Implementation
 📌 HTML
+
 📌 CSS
+
 📌 JavaScript
+
 📌 Node JS
+
 📌 Express 
+
 📌 Sequelize
+
 📌 MySQL
+
 📌 JWT for authentication
+
 📌 Postman to test API
 
 # Instalation 
