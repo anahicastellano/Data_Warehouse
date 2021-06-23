@@ -40,7 +40,7 @@ Position yourself in the *Backend* folder from in a shell and execute:
 # Test
 In the following link, you can find the requests to test the API, made in Postman:
 
-https://documenter.getpostman.com/view/13365917/Tzeajm5V
+[Postman](https://documenter.getpostman.com/view/13365917/Tzeajm5V)
 
 
 # Repository
