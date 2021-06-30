@@ -479,6 +479,37 @@
   cursor: pointer;
 }
 
+.import-btn {
+  height: 41px;
+    width: 54px;
+    background-color: white;
+    margin-right: 9px;
+    border: 1px solid #0683F9;
+    border-radius: 3.5px;
+}
+
+.img-import-btn{
+  height: 16px;
+    width: 23px;
+    margin-top: 4px;
+}
+
+.export-btn {
+  height: 41px;
+  width: 227px;
+  border: 1px solid #0683F9;
+  border-radius: 1.5px;
+  background-color: white;
+  margin-right: 9px;
+  color: #0683F9;
+}
+
+.fa-sort-down {
+  display: inline;
+  font-size: 19px;
+  margin-left: 8px;
+}
+
 .new-contact-btn {
   display: flex;
   align-items: center;
@@ -500,6 +531,10 @@
   cursor: pointer;
 }
 
+.empty-img {
+  height: 24px;
+  width: 24px;
+}
 .head-cont {
   display: grid;
   grid-template: repeat(1, 1fr)/4.1% 21.85% 16.25% 16.25% 16.25% 16.25% 9.05%;
